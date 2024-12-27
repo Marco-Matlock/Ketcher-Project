@@ -1,0 +1,2 @@
+Two files were modified in order to add the extra button in Ketcher to extract the SMILES string from the active cell and also to save the Ketcher smiles code onto the active cell.
+Bottom Toolbar.txt and Save.txt were the only ones modified. In order to update this to the latest version of Ketcher, simply download these two files and upload it over the latest Ketcher update (given they didn't do anything new to these two txt files).
